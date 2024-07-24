@@ -2,7 +2,7 @@
 
 Meu nome e Renan Miranda
 
-- temho 17y
+- tenho 17y
 - estou me desenvolvendo em linguagem javascript
 - utilizo essa espaço para organizaçao e compartilhamento dos meus projetos desenvolvidos
 - 
